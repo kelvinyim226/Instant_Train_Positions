@@ -1,0 +1,68 @@
+.filter-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.LineCodeYL{
+    color:yellow
+}
+.LineCodeRD{
+    color:red
+}
+.LineCodeBL{
+    color:blue
+}
+.LineCodeOR{
+    color:orange
+}
+.LineCodeGR{
+    color:green
+}
+.LineCodeSV{
+    color:silver
+}
+.ServiceTypeNoPassengers{
+    color:darkgreen
+}
+.ServiceTypeNormal{
+    color:darkblue
+}
+.ServiceTypeSpecial{
+    color:darkred
+}
+.ServiceTypeUnknown{
+    color:gray
+}
+.CarCount0{
+    color: aqua;
+
+}
+.CarCount1{
+    color: aquamarine;
+}
+.CarCount2{
+    color: black;
+    
+}
+.CarCount3{
+    color: cornflowerblue;
+}
+.CarCount4{
+    color: coral;
+    
+}
+.CarCount5{
+    color: darkcyan;
+}
+.CarCount6{
+    color: darkkhaki;
+}
+.CarCount7{
+    color: darkslateblue;
+}
+.CarCount8{
+    color: magenta;
+}
+.CarCount9{
+    color: indigo;
+}
